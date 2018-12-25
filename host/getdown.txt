@@ -1,5 +1,5 @@
 # The URL from which the client is downloaded
-appbase = https://raw.githubusercontent.com/Fjalke/WurmTimers/master/host/
+appbase = https://fjalke.github.io/WurmTimers/host/
 
 # UI Configuration
 ui.name = Fjalkes Wurm Timers
