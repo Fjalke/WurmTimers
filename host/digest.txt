@@ -1,4 +1,4 @@
 getdown.txt = 69a82f11cd370ef23703effe1a679342
-FjalkesWurmTimers.jar = 8605d2f21c9ebe59d5bf70788e348cbd
+FjalkesWurmTimers.jar = 83cec9c3db69efcb1a09b95f22833259
 commons-io-2.6.jar = 09c0f9d40bf1b57517bc9c90d3c4149e
-digest.txt = 28c395c94c99c0ee9e9b75312bf0fc47
+digest.txt = b64584858477b90952a6fa2095c3f451
